@@ -35,7 +35,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 3. **Install Required Dependencies**
 
    ```bash
-#to installation the vmp added some commands#
+
    npm i
    ```
 
@@ -78,7 +78,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
    cd frontend
    ```
 
-2. **Install Dependencies**
+2. **Install Dependencies add the url, please search on google**
 
    ```bash
    npm i
